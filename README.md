@@ -4,7 +4,7 @@
 DECIDE what your app can do
 
 | Endpoint            | 	    HTTP Verb	|    Request Body	 |       Action                                                          |
-| -----------         |:----------------:   | ------------------:| ---------:|
+| -----------         |:----------------:   | :------------------:| :---------:|
 |   /	              |       GET		    |                    | Returns a Hello, World! string                                        |
 |   /url              |	      POST	        |  Your target URL	 | Shows the created url_key with additional info, including a secret_key|
 |  /{url_key}         |	        GET		    |                    | Forwards to your target URL                                           |
