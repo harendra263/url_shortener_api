@@ -3,6 +3,16 @@
 
 DECIDE what your app can do
 
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
+
+
+
 | Endpoint   | 	    HTTP Verb	|    Request Body	 |   Action  |
 |   /	     |       GET		|                    |      Returns a Hello, World! string |
 |   /url     |	      POST	    |  Your target URL	 |  Shows the created url_key with additional info, including a secret_key|
